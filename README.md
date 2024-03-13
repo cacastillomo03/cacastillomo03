@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Carlos Andres Castillo</h1>
-<h3 align="center">Soy ingeniero de sistemas graduado en el año 2022 con 10 años experiencia en sector de hidrocarburos, con deseos de unirme al grupo de los mejores desarrolladores webn del pais,la disciplina operativa y el trabajo en equipo adquiridas en 10años en la industria petrolera son mis mayores fortalezas para crecer en el mundo del desarrollo web.</h3>
+<h3 align="justify">Soy ingeniero de sistemas graduado en el año 2022 con 10 años experiencia en sector de hidrocarburos, con deseos de unirme al grupo de los mejores desarrolladores webn del pais,la disciplina operativa y el trabajo en equipo adquiridas en 10años en la industria petrolera son mis mayores fortalezas para crecer en el mundo del desarrollo web.</h3>
 
 - 🔭 I’m currently working on **En el manejo de CSS puro HTML y JavaScript**
 
